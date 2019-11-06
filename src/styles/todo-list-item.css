@@ -1,0 +1,16 @@
+.todo-list-item{
+    line-height: 35px;
+    cursor:pointer;
+    user-select:none;
+}
+
+
+
+.done{
+    text-decoration: line-through;
+}
+
+.important{
+    color: teal;
+    font-weight: bold;
+}
